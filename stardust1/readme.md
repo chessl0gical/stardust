@@ -1,4 +1,4 @@
-# Stardust Keygen 🔑✨
+# Stardust Keygen 1 🔑✨
 
 **Deterministic key generator: password → reproducible keystream (1 byte to 20 GiB)**
 
